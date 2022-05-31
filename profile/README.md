@@ -20,4 +20,4 @@ The service deeply integrates the *V8 JavaScript runtime* with a high performanc
 
 - [Develop Locally, Deploy Globally](https://deno.com/deploy/docs): Deno Deploy is built on the same underlying infrastructure as the *Deno CLI*, allowing you to develop locally without internet access.
 - [No Vendor Lock In](https://deno.com/deploy/docs): The service deeply integrates the *V8 JavaScript runtime* with a high performance asynchronous web server to provide optimal performance without unnecessary intermediate abstractions..
-- - [Built For Performance](https://deno.com/deploy/docs): Deno is built on the fastest server technologies available: *Rust*, *V8*, *Hyper*, and *Tokio*. Never miss a beat.
+- [Built For Performance](https://deno.com/deploy/docs): Deno is built on the fastest server technologies available: *Rust*, *V8*, *Hyper*, and *Tokio*. Never miss a beat.
